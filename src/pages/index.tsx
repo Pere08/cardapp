@@ -4,7 +4,7 @@ import Card from '@/components/Card'
 import FilterByOptions from '@/components/FilterByOptions'
 import FilterByInput from '@/components/FilterByInput'
 import { cards } from './api/mockData'
-import styles from './index.module.css'
+import styles from '@/styles/index.module.css'
 import { filterType, cardType } from '@/types/types'
 import { filtersByOptions } from '@/types/enums'
 
